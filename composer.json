@@ -1,0 +1,11 @@
+{
+    "name": "frederikvosberg/composertest-b",
+    "description": "Just a test with composer and satis",
+    "authors": [
+        {
+            "name": "Frederik Vosberg",
+            "email": "hallo@frederikvosberg.de"
+        }
+    ],
+    "require": {}
+}
